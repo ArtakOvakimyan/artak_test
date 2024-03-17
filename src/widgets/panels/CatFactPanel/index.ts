@@ -1,0 +1,1 @@
+export {CatFactPanel} from './CatFactPanel';
